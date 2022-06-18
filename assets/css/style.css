@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(47, 133, 173);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+
+.carousel-inner {
+    box-shadow: 1px 5px 50px 35px #000000;
+}
+
+.carousel-caption h5 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: rgb(179, 255, 0);
+    font-weight: bolder;
+}
+
+img {
+    height: 500px;
+    width: 300px;
+}
